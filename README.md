@@ -85,6 +85,7 @@ We are in the early stages of building a smarter future. Whether you are a devel
 **License:** [MIT](LICENSE)
 
 <p align="right">(<a href="#-ai-sastra">
- ^
- ||
+ ```
+  AI-Sastra
+  ````
 </a>)</p>
