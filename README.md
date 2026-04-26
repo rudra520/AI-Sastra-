@@ -84,4 +84,8 @@ We are in the early stages of building a smarter future. Whether you are a devel
 **Role:** Founder & Lead Developer  
 **License:** [MIT](LICENSE)
 
-<p align="right">(<a href="#-ai-sastra">^</a>)</p>
+<p align="right">(<a href="#-ai-sastra">
+ ``` 
+|   |
+ ```
+</a>)</p>
