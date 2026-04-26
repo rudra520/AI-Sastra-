@@ -1,4 +1,4 @@
-# AI-Sastra 🤖
+# 🚀AI-Sastra 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=535&lines=Coming+Soon...;Unifying+AI;AI-Sastra+is+Launching" alt="Typing Animation" />
