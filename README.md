@@ -31,5 +31,5 @@
 ## 📬 Stay Tuned
 We are currently building the foundation. Feel free to ⭐ this repository to stay updated on our progress!
 
-**Project Lead:** [Your Name/Handle]  
+**Project Lead:** [Rudra Pratap singh / Founder ]  
 **License:** MIT
