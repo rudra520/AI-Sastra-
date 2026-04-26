@@ -1,7 +1,11 @@
 # 🚀 AI-Sastra
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Democratizing+Intelligence;Unifying+the+AI+Ecosystem;AI-Sastra+is+Launching](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Democratizing+Intelligence;Unifying+the+AI+Ecosystem;AI-Sastra+is+Launching)" alt="Typing Animation" />
+<p align="center">
+  <a href="https://ai-sastra.netlify.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Democratizing+Intelligence;Unifying+the+AI+Ecosystem;AI-Sastra+is+Launching" alt="Typing Animation" />
+  </a>
+</p>
 </p>
 
 <p align="center">
