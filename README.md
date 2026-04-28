@@ -36,7 +36,7 @@ Our mission is to provide a curated, intuitive ecosystem tailored for specific u
 
 ## 🚀 Live Demo
 Check out the current progress and the "Coming Soon" dashboard:
-🔗 **[https://ai-sastra.netlify.app/](https://ai-sastra.netlify.app/)**
+🔗 **[AI-Sastra-UI released](https://ai-sastra.netlify.app/)**
 
 ---
 
