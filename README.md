@@ -1,4 +1,3 @@
-Here is a comprehensive `README.md` file for your AI-Sastra project, based on the information from your website. You can copy this into a file named `README.md` in your project's root directory.
 
 ---
 
