@@ -16,7 +16,7 @@ AI-Sastra is the world's first unified AI platform — bringing educational tool
 
 The platform currently integrates **108+ AI tools** across **12 categories**, serving **3 age groups** all under one roof.
 
-![AI-Sastra Preview]() <!-- You can replace this with an actual screenshot or OG image -->
+![AI-Sastra Preview](preview of ai Sastra.png) <!-- You can replace this with an actual screenshot or OG image -->
 
 ## ✨ Features
 
