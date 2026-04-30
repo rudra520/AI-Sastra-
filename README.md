@@ -169,7 +169,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-## Live Website: [https://ai-sastra.vercel.app](https://ai-sastra.vercel.app)
+## Live Website:
+ [https://ai-sastra.vercel.app](https://ai-sastra.vercel.app)
 - **Status**: Now in Development — Alpha.v1 live
 
 ---
