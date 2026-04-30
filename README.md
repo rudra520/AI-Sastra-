@@ -167,9 +167,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Deployed on [Vercel](https://vercel.com)
 - AI integrations powered by [Vercel AI SDK](https://sdk.vercel.ai/)
 
-## 📞 Contact & Support
 
-- **Live Website**: [https://ai-sastra.vercel.app](https://ai-sastra.vercel.app)
+
+## Live Website: [https://ai-sastra.vercel.app](https://ai-sastra.vercel.app)
 - **Status**: Now in Development — Alpha.v1 live
 
 ---
