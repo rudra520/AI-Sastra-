@@ -176,7 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for learners, creators, and explorers of all ages.</sub>
+  <sub>Founder & Developer of AI Sastra - Rudra Pratap Singh.</sub>
 </div>
 
 ---
